@@ -66,3 +66,22 @@ Os cenários de receita de 12 meses (US$ 43 / US$ 89 / US$ 172) são didáticos 
 HTML, CSS e JavaScript puros. Sem build, dependências ou backend. Gráficos e indicadores são componentes CSS; simuladores executam localmente no navegador. Fotografia editorial ilustrativa é carregada externamente via Unsplash; não representa uma pessoa entrevistada.
 
 **Última atualização do conteúdo:** outubro de 2026.
+
+## Expansão estratégica — outubro de 2026
+
+O painel agora inclui seis seções adicionais:
+- **Persona central:** demografia, psicografia, idioma, renda e família.
+- **Transformação psicológica:** juventude, responsabilidades, mudanças, reavaliação e autonomia (trajetória interpretativa).
+- **Mapa de oportunidades:** universo de dores, notas heurísticas e ranking de testes para cabelo, skincare, peso, refeições, força, casa e suplementos.
+- **TAM/SAM/SOM:** simulador de população endereçável, afinidade, capacidade de compra, alcance e conversão. Base de ~30–32 milhões de mulheres 45–60 é **aproximação**, não censo exato desse corte.
+- **Linguagem, influenciadoras e comportamento digital:** exemplos de copy, celebridades para pesquisa de afinidade (não endossos), dados Pew 2025 para 50–64 anos.
+- **Economia de aquisição:** simulador CPC/CVR/CPA, ticket, take rate de upsell e margem pré-mídia.
+
+### Referências adicionais
+
+- [Census ACS 2024 — DP05](https://data.census.gov/table/ACSDP1Y2024.DP05): faixas etárias 45–54, 55–59 e 60–64, usadas para aproximação.
+- [Pew Social Media Fact Sheet, 2025](https://www.pewresearch.org/internet/fact-sheet/social-media/): YouTube 85%, Facebook 74%, Instagram 40% e TikTok 30% entre adultos de 50–64 anos.
+- [BLS 2024](https://www.bls.gov/opub/reports/consumer-expenditures/2024/home.htm): despesa média anual por unidade consumidora de US$ 78.535.
+- [FRED / BLS, 45–54 anos](https://fred.stlouisfed.org/series/CXUTOTALEXPLB0405M): US$ 100.327 de gastos médios anuais em 2024, entre unidades consumidoras cujo responsável está nessa faixa.
+
+**Importante:** os gráficos de prioridades, o ranking de oportunidades, o TAM/SAM/SOM e o simulador de CPA são ferramentas de planejamento; nenhum resultado constitui uma previsão comprovada de vendas.
