@@ -1,3 +1,20 @@
+# Jennifer Miller — Persona Intelligence Atlas
+
+**Versão visual redesenhada · outubro de 2026**
+
+O arquivo **[index.html](./index.html)** agora é um atlas visual com **18 áreas**, organizado em três blocos: entender a pessoa, entender o mercado e transformar a pesquisa em negócios.
+
+- **Pessoa:** retrato narrativo, ficha central 46–56/50 anos, evolução psicológica, rotina em quatro horários, psicografia e problemas.
+- **Mercado:** interesses observados em Adriane, modos de compra, plataformas digitais com contexto Pew, referências culturais, TAM/SAM/SOM, orçamento familiar e concorrentes.
+- **Negócio:** jornada de nove etapas, ranking heurístico de oportunidades, ideias de produtos e upsells, simuladores de CPA/AOV/margem e LTV, retenção e validação.
+- **Documentação:** [Dossiê-Mestre](./DOSSIER_COMPLETO.md) mantém a pesquisa extensa. [Dashboard anterior](./archive/dashboard-v1.html) está arquivado.
+
+**Metodologia:** Jennifer é uma persona hipotética. Dados relatados sobre Adriane não representam estatisticamente americanas; números de cenário e prioridades não são medições. Os simuladores mostram consequências matemáticas das premissas escolhidas, não previsões de vendas.
+
+**Publicação:** Settings → Pages → Deploy from a branch → main → / (root). O endereço público só estará disponível após a confirmação do deploy.
+
+---
+
 # Jennifer Miller — Persona Intelligence
 
 Dashboard interativo e dossiê estratégico da persona **Jennifer Miller**, mulher americana hipotética de 45–60 anos (idade central: 51), desenvolvido a partir das conversas sobre Adriane e o planejamento de ofertas de alto LTV.
