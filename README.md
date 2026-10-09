@@ -1,0 +1,68 @@
+# Jennifer Miller — Persona Intelligence
+
+Dashboard interativo e dossiê estratégico da persona **Jennifer Miller**, mulher americana hipotética de 45–60 anos (idade central: 51), desenvolvido a partir das conversas sobre Adriane e o planejamento de ofertas de alto LTV.
+
+## Visualizar
+
+Abra [index.html](./index.html) ou publique gratuitamente com **GitHub Pages**: Settings → Pages → Deploy from a branch → main → / (root). Após a publicação, o endereço normalmente segue o formato `https://hydradigital.github.io/gerador-persona/`, mas o endereço só deve ser considerado ativo quando o GitHub confirmar o deploy.
+
+## O que existe no painel
+
+- Visão geral e identidade da persona.
+- Origem em Adriane, com distinção entre **observação** e **hipótese americana**.
+- Motivações, objeções e psicologia de compra.
+- Três modos de compra: resultado, família e impulso.
+- Preferências de conteúdo, redes e descoberta.
+- Jornada de decisão e pós-compra.
+- Retenção por simplicidade e integração à rotina.
+- Marcas de referência: Nutrafol, Viviscal, Olay, RoC, Neutrogena, CeraVe, WeightWatchers, Noom, Vital Proteins, Nature Made, MaryRuth's e GNC.
+- Preços de referência, sujeitos a atualização.
+- Simulador interativo de orçamento doméstico.
+- Conceitos de produtos digitais, físicos e assinaturas.
+- Simulador interativo de receita de coorte por 12 meses.
+- Cenários de LTV ilustrativos e plano de validação.
+
+## Leitura estratégica
+
+**Posicionamento:** *Feel Like Yourself Again.*
+
+**Hipótese central:** Jennifer busca melhorias concretas para si e sua família, mas só mantém produtos cujo uso é simples e compatível com a rotina.
+
+**Compra principal:** produtos orientados a resultado e compras familiares. **Compra secundária:** impulso e promoções.
+
+**Prioridade inicial de pesquisa:** cuidados capilares 45+, skincare para pele madura e ferramentas práticas de hábitos/controle de peso.
+
+**Sequência de ofertas a testar:** front-end digital útil (US$ 19–37) → complemento físico relevante (US$ 47–67) → reposição opcional ou assinatura com valor contínuo comprovado → cross-sell coerente.
+
+## Atenção metodológica
+
+Este projeto **não é uma pesquisa estatística**. Jennifer é uma persona de trabalho. Faixas de renda, gastos, prioridades de categoria, barras de gráficos e cenários de LTV são hipóteses ou simulações, não fatos populacionais. O comportamento diretamente relatado diz respeito a Adriane, uma consumidora brasileira. Não extrapolar automaticamente para todas as mulheres americanas.
+
+Os preços de concorrentes foram citados nas conversas como referências pontuais e **não foram revalidados nesta publicação**. Verifique sites oficiais e condições de assinatura antes de usar em decisões comerciais.
+
+O orçamento padrão do simulador (renda líquida US$ 7.500, obrigações US$ 6.400, saldo US$ 1.100) é um exemplo editável, não um dado observado. O gasto pessoal discricionário de US$ 75–250/mês é uma faixa de planejamento, não uma média demonstrada.
+
+Os cenários de receita de 12 meses (US$ 43 / US$ 89 / US$ 172) são didáticos e **não representam lucro**. Para LTV de contribuição, descontar custo de produto, frete, impostos variáveis, processamento, reembolso, suporte e demais custos. Compare margem com CAC.
+
+## Fontes e validação sugeridas
+
+- [BLS Consumer Expenditure Surveys](https://www.bls.gov/cex/) — despesas familiares americanas.
+- [Pew Research Center](https://www.pewresearch.org/internet/) — uso de plataformas e tecnologia.
+- [AARP Research](https://www.aarp.org/research/) — hábitos de adultos acima dos 50 anos.
+- [Nutrafol](https://nutrafol.com/) e [Viviscal](https://www.viviscal.com/) — referências capilares.
+- [Olay](https://www.olay.com/), [RoC](https://www.rocskincare.com/), [Neutrogena](https://www.neutrogena.com/) — skincare.
+- [WeightWatchers](https://www.weightwatchers.com/) e [Noom](https://www.noom.com/) — programas digitais.
+
+## Próximos experimentos
+
+1. Coletar 100–150 avaliações e comentários por categoria.
+2. Comparar 20–30 concorrentes.
+3. Entrevistar 15–20 mulheres americanas de 45–60 anos.
+4. Testar três conceitos de entrada.
+5. Acompanhar ativação D1/D7, retenção D30, recompra D60/D90, cancelamentos, reembolsos, CAC e margem.
+
+## Tecnologia
+
+HTML, CSS e JavaScript puros. Sem build, dependências ou backend. Gráficos e indicadores são componentes CSS; simuladores executam localmente no navegador. Fotografia editorial ilustrativa é carregada externamente via Unsplash; não representa uma pessoa entrevistada.
+
+**Última atualização do conteúdo:** outubro de 2026.
