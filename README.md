@@ -85,3 +85,8 @@ O painel agora inclui seis seções adicionais:
 - [FRED / BLS, 45–54 anos](https://fred.stlouisfed.org/series/CXUTOTALEXPLB0405M): US$ 100.327 de gastos médios anuais em 2024, entre unidades consumidoras cujo responsável está nessa faixa.
 
 **Importante:** os gráficos de prioridades, o ranking de oportunidades, o TAM/SAM/SOM e o simulador de CPA são ferramentas de planejamento; nenhum resultado constitui uma previsão comprovada de vendas.
+
+
+## Dossiê-mestre aprofundado
+
+Leia **[DOSSIER_COMPLETO.md](./DOSSIER_COMPLETO.md)** para 21 capítulos detalhados, incluindo dados qualitativos da origem da persona, psicografia, evolução de vida, problemas, segmentação, comportamento de consumo, linguagem, marcas, influenciadoras, economia doméstica, público endereçável, fórmulas de CAC/LTV, monetização e validação. O dashboard é a visualização executiva, enquanto esse arquivo preserva a análise extensa.
