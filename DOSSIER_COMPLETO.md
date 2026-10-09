@@ -33,6 +33,34 @@
 
 **Regra:** Adriane serve como origem de hipóteses, não como amostra representativa. Evitar publicar informações familiares privadas que não sejam necessárias à estratégia.
 
+## Um dia na vida de Jennifer — rotina ilustrativa
+
+> Os horários e eventos abaixo são uma narrativa hipotética para tornar a persona tangível. Não são observações de uma consumidora americana nem horários comprovados de maior conversão.
+
+### 06:30 — A manhã começa com responsabilidades
+Acorda, toma café, verifica mensagens, organiza o dia e se prepara para trabalhar. Talvez tenha dormido mal ou acorde com pouca disposição.
+
+**Insight de produto:** preferir soluções rápidas que se encaixem em hábitos já existentes.
+
+### 12:30 — Uma pausa no celular
+Durante o almoço, abre o Facebook, vê publicações de conhecidos, algum vídeo de celebridade, receitas e recomendações de produtos.
+
+**Insight de comunicação:** conteúdo curto, demonstrações e informações práticas podem gerar descoberta, sem presumir conversão imediata.
+
+### 18:30 — A segunda jornada
+Volta para casa, resolve pendências, pensa no jantar, nos filhos e nas tarefas do dia seguinte. Pode sentir que sobra pouco tempo para cuidar de si.
+
+**Insight de retenção:** a solução precisa reduzir, não aumentar, a carga de tarefas.
+
+### 21:30 — O momento de descoberta
+Senta no sofá, pega o celular e começa a rolar vídeos. Encontra uma influenciadora mostrando um produto, uma receita ou uma rotina de beleza. Salva o vídeo, pesquisa avaliações ou coloca algo no carrinho.
+
+**Insight de jornada:** descoberta, pesquisa, carrinho e compra podem acontecer em momentos separados.
+
+**Uso estratégico:** essa narrativa ajuda a formular hipóteses de criativos, onboarding e produto. Validar os horários de mídia por dados de campanha, sem tratá-los como estatística.
+
+---
+
 ## 3. Demografia e segmentos internos
 | Dimensão | Persona de trabalho | Como validar |
 |---|---|---|
