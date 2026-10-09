@@ -333,3 +333,39 @@ Essas faixas são **hipóteses comerciais**, não pesquisas de disposição a pa
 - [ ] Entrevistas e coorte inicial analisadas.
 
 **Síntese final:** não vender para “uma mulher de 51 anos”. Vender uma solução concreta, prática, respeitosa e economicamente sustentável para um segmento que demonstrou querer e pagar por ela.
+
+
+## Oportunidades de nicho: infoprodutos e produtos físicos — outubro de 2026
+
+Este ranking é **hipotético e estratégico**, não uma medição de prevalência, conversão, eficácia ou preços atuais. Jennifer é uma persona de trabalho (46–56 anos; idade central 50).
+
+| Nicho | Dor / tarefa | Infoproduto e ticket hipotético | Físico e ticket hipotético | Recompra |
+|---|---|---|---|---|
+| Cabelo feminino 45+ | Afinamento, textura, rotina e confiança | *Midlife Hair Care Blueprint* — US$ 19–29 | Shampoo, condicionador, sérum cosmético, máscara — US$ 49–89 | Reposição / kits |
+| Skincare maduro | Secura, textura e escolhas confusas | *3-Minute Midlife Skincare Routine* — US$ 17–27 | Hidratante, protetor solar, sérum, kit — US$ 47–97 | Refis, conforme consumo |
+| Peso e hábitos | Consistência e planejamento | *Easy Midlife Meal & Habit Plan* — US$ 27–37 | Recipientes e acessórios de preparo — US$ 29–59 | Planejamento semanal opcional |
+| Sono e descanso | Desacelerar e criar rotina noturna | *Midlife Evening Reset* — US$ 17–27 | Máscara, travesseiro, luz noturna — US$ 29–79 | Áudios e rotinas |
+| Força e mobilidade 45+ | Manter autonomia | *Strong & Confident After 50* — US$ 27–47 | Faixas, tapete e acessórios — US$ 29–69 | Progressões |
+| Beleza de dentro para fora | Nutrição e cuidados pessoais | *Beauty From Within Guide* — US$ 17–27 | Colágeno ou suplementos, se apropriados — US$ 39–79 | Reposição condicional |
+| Refeições práticas | Poupar decisões diárias | Cardápios, receitas e lista de compras | Acessórios de cozinha | Planejamento opcional |
+| Organização e autocuidado | Reduzir carga mental | Planejador pessoal e familiar | Agenda e organização | Atualizações sazonais |
+
+### Três funis para teste
+
+1. **Cabelo:** front digital US$ 27 → kit físico US$ 67 → reposição US$ 49.
+2. **Skincare:** front digital US$ 19 → kit US$ 57 → refil US$ 39.
+3. **Nutrição e hábitos:** front digital US$ 27 → kit de preparo US$ 47 → planejamento opcional US$ 12/mês.
+
+O produto de entrada deve ter valor independente. A assinatura deve oferecer valor renovado, cancelamento simples e preço claro. Evitar alegações clínicas sem evidência adequada.
+
+### Fórmulas para avaliação econômica
+
+- **AOV** = preço do front + (taxa de aceitação do upsell × preço do upsell).
+- **CPA** = CPC / conversão do site.
+- **Contribuição unitária após mídia** = AOV × margem de contribuição pré-mídia − CPA.
+
+A margem pré-mídia precisa refletir custos variáveis (produto, processamento, frete, tributos aplicáveis, suporte e reembolsos esperados). A contribuição não inclui custos fixos nem recompras futuras. O dashboard inclui simulador editável.
+
+**Prioridade de validação:** cabelo e skincare primeiro; nutrição/hábitos em terceiro. O mercado de peso e suplementos exige atenção adicional a eficácia, segurança, conformidade e claims. A hipótese guarda-chuva é: *“Simple Beauty & Wellness for Women Who've Spent Years Taking Care of Everyone Else.”*
+
+---
