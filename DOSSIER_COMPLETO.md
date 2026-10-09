@@ -369,3 +369,77 @@ A margem pré-mídia precisa refletir custos variáveis (produto, processamento,
 **Prioridade de validação:** cabelo e skincare primeiro; nutrição/hábitos em terceiro. O mercado de peso e suplementos exige atenção adicional a eficácia, segurança, conformidade e claims. A hipótese guarda-chuva é: *“Simple Beauty & Wellness for Women Who've Spent Years Taking Care of Everyone Else.”*
 
 ---
+
+
+## Relationship Intelligence — Jennifer A3 e mapa de subnichos (outubro de 2026)
+
+**Decisão de foco:** pesquisar Jennifer A3: mulher americana de 46–56 anos, casada há aproximadamente 15–25 anos, com perda de romance e sensação de não ser ouvida, vista ou valorizada. É uma hipótese de segmentação, **não** a constatação de que esse grupo constitui a maioria da população.
+
+### Nicho de relacionamentos: mapa de 16 subnichos
+
+| Subnicho | Afinidade Jennifer A3 | Problema central | Oportunidade |
+|---|---|---|---|
+| Reconexão no casamento longo | Prioritário | Distância, rotina, saudade | Programa de reconexão |
+| Sentir-se invisível ou pouco valorizada | Prioritário | Ausência de reconhecimento | Comunicação, limites, diário |
+| Comunicação conjugal e conflitos repetitivos | Alta | Discussões sem resolução | Scripts e exercícios |
+| Intimidade emocional e romance após 20 anos | Alta | Carinho e conversa reduzidos | Encontros e baralho |
+| Carga mental e divisão de responsabilidades | Alta | Esforço unilateral | Ferramentas de acordos |
+| Transição para ninho vazio | Alta | Casal precisa se redescobrir | Atividades e conversas |
+| Confiança e reparação após conflitos | Condicional | Mágoas e desconfiança | Educação, apoio especializado |
+| Desejo e intimidade física na meia-idade | Condicional | Diferenças de desejo | Comunicação e consentimento |
+| Parceiro emocionalmente distante | Alta | Pouca disponibilidade afetiva | Expectativas e diálogo |
+| Autoconfiança e limites no casamento | Alta | Medo de expressar necessidades | Diário e exercícios |
+| Namoro depois dos 45 | Outra subpersona | Reentrada no namoro | Dating After 45 |
+| Recomeço após divórcio | Outra subpersona | Reconstrução afetiva | Programa pessoal |
+| Segundo casamento e famílias recompostas | Outra subpersona | Novas dinâmicas familiares | Guias de convivência |
+| Relacionamentos à distância | Outra subpersona | Distância e planejamento | Rotinas de conexão |
+| Diferenças de valores | Segmentado | Prioridades divergentes | Conversas sobre valores |
+| Separação e decisão sobre continuidade | Sensível | Ambivalência e segurança | Clareza e encaminhamento profissional |
+
+### Jennifer A3: cinco dores
+
+1. **Romance desapareceu:** menos encontros, gestos e conversas íntimas.
+2. **Não se sente ouvida:** distração, defensividade e mudanças não sustentadas.
+3. **Esforço unilateral:** sente que precisa iniciar todas as tentativas de reconexão.
+4. **Identidade e admiração:** falta de curiosidade, ternura e valorização.
+5. **Medo do futuro:** receio de envelhecer em um casamento emocionalmente distante.
+
+**Tensão central:** “Ela ainda deseja recuperar o casamento, mas não quer continuar se perdendo para mantê-lo.”
+
+### Frases ilustrativas e ângulos de teste
+
+- “I feel like his roommate, not his wife.” — romance e proximidade.
+- “Why am I always the one trying?” — reciprocidade.
+- “We barely talk unless it's about the kids.” — intimidade emocional.
+- “He doesn't even notice when I dress up.” — reconhecimento.
+- “I'm tired of having the same argument.” — comunicação.
+- “I love him, but I miss us.” — recuperar vínculo.
+- “I don't want to beg for attention.” — dignidade e limites.
+
+Essas falas são **exemplos de copy**, não depoimentos reais. Dois ângulos para testar separadamente: **“I miss the way we used to be”** e **“I don't want to be the only one trying anymore.”**
+
+### Jornada hipotética
+
+- 07:00: conversa logística, pouco espaço para intimidade.
+- 12:30: encontra conteúdos sobre relacionamentos e salva os relevantes.
+- 20:00: rotina doméstica com pouca interação afetiva.
+- 22:30: pesquisa reservada por soluções, especialistas e relatos.
+
+São horários e comportamentos hipotéticos, a confirmar em entrevistas.
+
+### Esteira de ofertas
+
+| Etapa | Produto | Preço de teste |
+|---|---|---|
+| Front digital | The 7-Day Marriage Connection Reset | US$ 19–27 |
+| Upsell digital | The 21-Day Marriage Reconnection Plan | US$ 37–47 |
+| Produto físico | The Couples Conversation Deck | US$ 29–49 |
+| Complemento | The Marriage Connection Journal | US$ 17–29 |
+
+**Mecanismo educacional:** reconhecer padrões → expressar necessidades → criar oportunidades de reconexão com abertura mútua → avaliar reciprocidade e mudanças. Não prometer controlar o parceiro, obter resultados garantidos ou salvar um casamento em prazo determinado.
+
+**Validação:** entrevistar mulheres casadas americanas 46–56 anos sobre situações concretas de desconexão, tentativas anteriores, participação do marido, compras anteriores, canais de descoberta, objeções e resultados valorizados. Distinguir distanciamento cotidiano de abuso, coerção, intimidação ou controle; casos inseguros não são público adequado para desafios de reconexão.
+
+O dashboard em `index.html` apresenta o mapa navegável e a análise visual aprofundada.
+
+---
