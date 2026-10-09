@@ -3,6 +3,37 @@
 
 > **Importante:** Jennifer Miller é um arquétipo comercial hipotético inspirado em observações qualitativas de Adriane, uma brasileira. NÃO é uma pessoa entrevistada nos EUA, uma média estatística ou um segmento comprovado. Dados de população, uso digital e preços de concorrentes têm fontes/limites distintos. Não tratar suposições como fatos.
 
+## Retrato central atualizado — Jennifer Miller
+
+**The Woman Who Took Care of Everyone**
+
+*Persona hipotética · Estados Unidos · 2026*
+
+- **Idade:** 46–56 anos.
+- **Idade central:** 50 anos.
+- **Classe social:** classe média americana.
+- **Renda familiar:** US$ 65 mil–110 mil/ano (hipótese inicial).
+- **Estado civil:** casada novamente ou divorciada (cenários).
+- **Filhos:** 2–3, adolescentes ou adultos jovens (cenário).
+
+Jennifer não é uma mulher que sempre teve uma vida fácil.
+
+Ela cresceu em uma família trabalhadora. Talvez tenha sido criada por uma mãe solteira, tenha enfrentado dificuldades financeiras na infância e aprendido muito cedo que precisava ser independente.
+
+Começou a trabalhar jovem, estudou, construiu uma carreira e conseguiu proporcionar aos filhos uma vida melhor do que aquela que teve.
+
+Hoje, ela tem uma casa em um bairro residencial, um SUV relativamente novo, contas para pagar e uma vida que, olhando de fora, parece confortável.
+
+**Mas existe uma contradição:**
+
+Ela passou a vida inteira construindo uma vida boa para sua família e sente que, nesse processo, deixou de cuidar de si mesma.
+
+Ela não está necessariamente insatisfeita com a família ou com a carreira. O problema é que começou a perceber que o próprio corpo, a energia e a autoestima não são mais os mesmos.
+
+**Nota:** a ficha central agora usa 46–56 anos / 50 anos. A faixa anterior 45–60 / 51 permanece como recorte ampliado para análise de mercado. A biografia é hipotética, não uma entrevista.
+
+---
+
 ## 1. Resumo de uma página
 - **Quem:** americana 45–60, idade de trabalho 51; classe média como hipótese, renda e composição familiar a validar.
 - **Identidade emocional:** mulher que cuida dos outros e gostaria de investir em si sem adicionar responsabilidades.
